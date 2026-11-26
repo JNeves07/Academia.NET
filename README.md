@@ -1,4 +1,4 @@
-# Sistema Acadêmico
+# Academia.NET
 
 Sistema de console para cadastro e consulta de **alunos** e **professores**, refatorado com Arquitetura Limpa. As regras de negócio ficam no domínio, os casos de uso na camada de aplicação e a interface de console apenas coordena a interação com o usuário.
 
@@ -12,7 +12,7 @@ Sistema de console para cadastro e consulta de **alunos** e **professores**, ref
 ## Arquitetura
 
 ```text
-Sistema-Academico/
+Academia.NET/
 ├── docs/original/                       # Código-fonte original preservado
 ├── src/
 │   ├── SistemaAcademico.Domain/         # Entidades, validações, interfaces e exceções
